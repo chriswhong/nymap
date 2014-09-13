@@ -1,0 +1,65 @@
+
+@import url(leaflet.css?0.5);
+
+
+body {
+	font-family:sans-serif;
+}
+
+#map {
+  width: 100%;
+  height: 500px;
+}
+
+svg {
+  position: relative;
+}
+
+path {
+	fill: #25829D;
+	fill-opacity: .85;
+	stroke: #fff;
+	stroke-width: 1;
+}
+
+.state {
+	fill: none;
+	stroke: #484747;
+	stroke-width: 2;
+}
+
+path:hover {
+  fill: rgb(7, 161, 255);
+  fill-opacity: .7;
+  stroke-width:2;
+}
+
+.state:hover {
+	fill:none;
+}
+
+#flyout {
+    position: absolute;
+    width: 150px;
+    color: #fff;
+    display: none;
+    top: 0;
+    z-index: 2000;
+}
+
+#flyoutTop {
+    background: #800000;
+    padding: 8px;
+    font-size: 20px;
+    height: 75px;
+}
+
+#flyoutBottom {
+    display: block;
+    height: 0;
+    width: 0;
+    border-left: 35px #540000 solid;
+    border-bottom: 19px solid rgba(255,255,255,0);
+    position: relative;
+    right: -116px;
+}

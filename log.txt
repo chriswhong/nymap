@@ -1,0 +1,69 @@
+2014-05-02T19:36:00Z: [8f6a3e7244e6bf0cea60c85323b9227c] chris.whong@socrata.com wrote requestId
+2014-05-02T19:36:01Z: [bd5e21f98a6742b2ad80a6832de97bb8] chris.whong@socrata.com wrote datasync-version
+2014-05-02T19:36:01Z: [bd5e21f98a6742b2ad80a6832de97bb8] chris.whong@socrata.com is using datasync version "1.0"
+2014-05-02T19:36:02Z: [bd5e21f98a6742b2ad80a6832de97bb8] chris.whong@socrata.com wrote 98rp-4rq7/control.json
+2014-05-02T19:36:02Z: [bd5e21f98a6742b2ad80a6832de97bb8] chris.whong@socrata.com committing upload of control.json
+2014-05-02T19:36:02Z: [bd5e21f98a6742b2ad80a6832de97bb8] Upload committed
+2014-05-02T19:36:02Z: [bd5e21f98a6742b2ad80a6832de97bb8] Processing job control.json committed by chris.whong@socrata.com
+2014-05-02T19:36:02Z: [bd5e21f98a6742b2ad80a6832de97bb8] SUCCESS: Processing control.json succeeded
+2014-05-02T19:36:02Z: [bd5e21f98a6742b2ad80a6832de97bb8] Processing finished
+2014-05-02T19:36:05Z: [bd5e21f98a6742b2ad80a6832de97bb8] chris.whong@socrata.com wrote requestId
+2014-05-02T19:39:01Z: [dcb29b700f8445ff978ebec804cf9221] chris.whong@socrata.com wrote 98rp-4rq7/trip_data_1.csv.gz
+2014-05-02T20:12:52Z: [dcb29b700f8445ff978ebec804cf9221] chris.whong@socrata.com committing upload of trip_data_1.csv.gz
+2014-05-02T20:12:54Z: [dcb29b700f8445ff978ebec804cf9221] Processing job trip_data_1.csv.gz committed by chris.whong@socrata.com
+2014-05-02T20:12:54Z: [dcb29b700f8445ff978ebec804cf9221] Upload committed
+2014-05-02T20:13:58Z: [dcb29b700f8445ff978ebec804cf9221] FAILURE: Processing trip_data_1.csv failed: Fields not in dataset: " hack_license", " passenger_count", " pickup_datetime", " trip_distance", " trip_time_in_secs", " vendor_id", " pickup_latitude", " dropoff_latitude", " pickup_longitude", " rate_code", " dropoff_longitude", " dropoff_datetime", " store_and_fwd_flag"
+2014-05-02T20:14:03Z: [dcb29b700f8445ff978ebec804cf9221] Processing finished
+2014-05-02T20:16:25Z: [986c2ae245e296ddea7f804360e9288e] chris.whong@socrata.com wrote requestId
+2014-05-02T20:16:26Z: [423e49a0d3c3461189200eaf43d5bb65] chris.whong@socrata.com wrote datasync-version
+2014-05-02T20:16:26Z: [423e49a0d3c3461189200eaf43d5bb65] chris.whong@socrata.com is using datasync version "1.0"
+2014-05-02T20:16:27Z: [423e49a0d3c3461189200eaf43d5bb65] chris.whong@socrata.com wrote 98rp-4rq7/control.json
+2014-05-02T20:16:27Z: [423e49a0d3c3461189200eaf43d5bb65] chris.whong@socrata.com committing upload of control.json
+2014-05-02T20:16:27Z: [423e49a0d3c3461189200eaf43d5bb65] Upload committed
+2014-05-02T20:16:27Z: [423e49a0d3c3461189200eaf43d5bb65] Processing job control.json committed by chris.whong@socrata.com
+2014-05-02T20:16:27Z: [423e49a0d3c3461189200eaf43d5bb65] SUCCESS: Processing control.json succeeded
+2014-05-02T20:16:27Z: [423e49a0d3c3461189200eaf43d5bb65] Processing finished
+2014-05-02T20:16:30Z: [423e49a0d3c3461189200eaf43d5bb65] chris.whong@socrata.com wrote requestId
+2014-05-02T20:19:03Z: [14fc7fef3962481c91ffdc269625ded0] chris.whong@socrata.com wrote 98rp-4rq7/trip_data_1.csv.gz
+2014-05-02T20:27:51Z: [12d4cbace6afd0cbc882c0983c7359c5] chris.whong@socrata.com wrote requestId
+2014-05-02T20:27:52Z: [6b783314dfc7489ebfb7102e9c476e71] chris.whong@socrata.com wrote datasync-version
+2014-05-02T20:27:52Z: [6b783314dfc7489ebfb7102e9c476e71] chris.whong@socrata.com is using datasync version "1.0"
+2014-05-02T20:27:53Z: [6b783314dfc7489ebfb7102e9c476e71] chris.whong@socrata.com wrote 98rp-4rq7/control.json
+2014-05-02T20:27:54Z: [6b783314dfc7489ebfb7102e9c476e71] chris.whong@socrata.com committing upload of control.json
+2014-05-02T20:27:54Z: [6b783314dfc7489ebfb7102e9c476e71] Upload committed
+2014-05-02T20:27:54Z: [6b783314dfc7489ebfb7102e9c476e71] Processing job control.json committed by chris.whong@socrata.com
+2014-05-02T20:27:54Z: [6b783314dfc7489ebfb7102e9c476e71] SUCCESS: Processing control.json succeeded
+2014-05-02T20:27:54Z: [6b783314dfc7489ebfb7102e9c476e71] Processing finished
+2014-05-02T20:27:56Z: [6b783314dfc7489ebfb7102e9c476e71] chris.whong@socrata.com wrote requestId
+2014-05-02T20:29:09Z: [b28f29167c628a75a20f4b413de2a00e] chris.whong@socrata.com wrote requestId
+2014-05-02T20:29:10Z: [358eab85e1d1406c8c2566f7e66c672b] chris.whong@socrata.com wrote datasync-version
+2014-05-02T20:29:10Z: [358eab85e1d1406c8c2566f7e66c672b] chris.whong@socrata.com is using datasync version "1.0"
+2014-05-02T20:29:11Z: [358eab85e1d1406c8c2566f7e66c672b] chris.whong@socrata.com wrote 98rp-4rq7/control.json
+2014-05-02T20:29:11Z: [358eab85e1d1406c8c2566f7e66c672b] chris.whong@socrata.com committing upload of control.json
+2014-05-02T20:29:11Z: [358eab85e1d1406c8c2566f7e66c672b] Upload committed
+2014-05-02T20:29:11Z: [358eab85e1d1406c8c2566f7e66c672b] Processing job control.json committed by chris.whong@socrata.com
+2014-05-02T20:29:11Z: [358eab85e1d1406c8c2566f7e66c672b] SUCCESS: Processing control.json succeeded
+2014-05-02T20:29:11Z: [358eab85e1d1406c8c2566f7e66c672b] Processing finished
+2014-05-02T20:29:14Z: [358eab85e1d1406c8c2566f7e66c672b] chris.whong@socrata.com wrote requestId
+2014-05-02T20:31:41Z: [c648676568444515a5dd7f67e9e3d5a1] chris.whong@socrata.com wrote 98rp-4rq7/trip_data_1.csv.gz
+2014-05-02T20:59:27Z: [c648676568444515a5dd7f67e9e3d5a1] chris.whong@socrata.com committing upload of trip_data_1.csv.gz
+2014-05-02T20:59:29Z: [c648676568444515a5dd7f67e9e3d5a1] Processing job trip_data_1.csv.gz committed by chris.whong@socrata.com
+2014-05-02T20:59:29Z: [c648676568444515a5dd7f67e9e3d5a1] Upload committed
+2014-05-02T21:00:34Z: [c648676568444515a5dd7f67e9e3d5a1] FAILURE: Processing trip_data_1.csv failed: Fields not in dataset: "dropoff_longitude", "pickup_latitude", "pickup_longitude"
+2014-05-02T21:00:41Z: [c648676568444515a5dd7f67e9e3d5a1] Processing finished
+2014-05-09T18:02:08Z: [85f99eacf38386e8139a0ac1b83bc15a] chris.whong@socrata.com wrote requestId
+2014-05-09T18:02:09Z: [7371841fe77346c3a282acf61e7fe579] chris.whong@socrata.com wrote datasync-version
+2014-05-09T18:02:09Z: [7371841fe77346c3a282acf61e7fe579] chris.whong@socrata.com is using datasync version "1.0"
+2014-05-09T18:02:10Z: [7371841fe77346c3a282acf61e7fe579] chris.whong@socrata.com wrote her9-gu27/control.json
+2014-05-09T18:02:10Z: [7371841fe77346c3a282acf61e7fe579] chris.whong@socrata.com committing upload of control.json
+2014-05-09T18:02:10Z: [7371841fe77346c3a282acf61e7fe579] Upload committed
+2014-05-09T18:02:10Z: [7371841fe77346c3a282acf61e7fe579] Processing job control.json committed by chris.whong@socrata.com
+2014-05-09T18:02:10Z: [7371841fe77346c3a282acf61e7fe579] SUCCESS: Processing control.json succeeded
+2014-05-09T18:02:10Z: [7371841fe77346c3a282acf61e7fe579] Processing finished
+2014-05-09T18:02:12Z: [7371841fe77346c3a282acf61e7fe579] chris.whong@socrata.com wrote requestId
+2014-05-09T18:04:52Z: [0e97fbb5ed4b4d20b1d8fb443f4b9d15] chris.whong@socrata.com wrote her9-gu27/trip_data_1.csv.gz
+2014-05-11T22:53:54Z: [5168af35a3f4f4a6357d3dccbcca0174] chris.whong@socrata.com committing upload of trip_data_1.csv.gz
+2014-05-11T22:53:58Z: [5168af35a3f4f4a6357d3dccbcca0174] Processing job trip_data_1.csv.gz committed by chris.whong@socrata.com
+2014-05-11T22:53:59Z: [5168af35a3f4f4a6357d3dccbcca0174] Upload committed
+2014-05-11T22:55:02Z: [5168af35a3f4f4a6357d3dccbcca0174] FAILURE: Processing trip_data_1.csv failed: Value in column "dropoff_datetime" uninterpretable as calendar_date in input at record 1: "2013-01-01 15:18:10"
+2014-05-11T22:55:06Z: [5168af35a3f4f4a6357d3dccbcca0174] Processing finished
